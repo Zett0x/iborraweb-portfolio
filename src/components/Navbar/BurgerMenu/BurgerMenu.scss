@@ -1,6 +1,5 @@
 .menu-btn {
   position: relative;
-  display: flex;
   justify-content: center;
   align-items: center;
   width: 80px;
@@ -8,6 +7,8 @@
   cursor: pointer;
   transition: all 0.5s ease-in-out;
   //border: 3px solid #fff;
+  display: none;
+  z-index: 1;
 }
 
 .menu-btn__burger {
@@ -51,4 +52,10 @@
 
 .menu-btn.open .menu-btn__burger::after {
   transform: rotate(-45deg) translate(35px, 35px);
+}
+
+@media screen and(max-width:858px) {
+  .menu-btn {
+    display: inline-flex;
+  }
 }
