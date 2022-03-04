@@ -7,7 +7,7 @@ export const App = () => {
     <Provider store={store}>
       <div id="app">
         <Header />
-        <About />
+        {/* <About /> */}
       </div>
     </Provider>
   );
