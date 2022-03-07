@@ -1,0 +1,124 @@
+.app__header-content {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--color3);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.app__header-content-title {
+  flex: 0.5;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  //background-color: var(--color4);
+  //border: solid 2px black;
+
+  h1 {
+    color: var(--color2);
+    font-size: 6rem;
+  }
+
+  p {
+    color: var(--color2);
+    font-size: 3.2rem;
+  }
+}
+
+.app__header-content-media {
+  width: auto;
+  height: auto;
+  //background-color: var(--color4);
+  //border: solid 2px black;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-social-media {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-img img {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  //border: solid 1px black;
+}
+
+.linkedin-logo,
+.github-logo {
+  margin: 1rem;
+  width: 4rem;
+  height: auto;
+
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: scale(1.22);
+  }
+}
+
+/* RESPONSIVE */
+
+@media only screen and(max-width:858px) {
+  .app__header-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .app__header-content-title {
+    //margin-top: 6rem;
+    h1 {
+      font-size: 3rem;
+    }
+    p {
+      font-size: 2rem;
+    }
+  }
+
+  // .app__header-content-media {
+  //   margin-top: 2rem;
+  // }
+}
+
+@media only screen and (max-width: 600px) {
+  .app__header-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .app__header-content-title {
+    //flex: 3;
+    margin-top: 6rem;
+    h1 {
+      font-size: 2rem;
+    }
+    p {
+      font-size: 1.5rem;
+    }
+  }
+
+  // .app__header-content-media {
+
+  // }
+  .header-img img {
+    margin-top: 2.5rem;
+    width: 17rem;
+  }
+}
