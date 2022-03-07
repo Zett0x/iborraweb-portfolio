@@ -30,7 +30,9 @@ export const About = () => {
         </p>
       </div>
       <div className="instagram-container">
-        <img src={instaLogo} alt="instagram logo" />
+        <a href="https://instagram.com/franib97">
+          <img src={instaLogo} alt="instagram logo" />
+        </a>
       </div>
     </div>
   );
