@@ -7,7 +7,7 @@ import github from "../../assets/github-logo.png";
 
 export const Header = () => {
   return (
-    <div id="app__header">
+    <div id="home">
       <Navbar />
       <div className="app__header-content">
         <div className="app__header-content-title">

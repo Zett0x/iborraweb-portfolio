@@ -1,20 +1,19 @@
 .app__about {
   width: 100vw;
-  //height: auto;
 
-  padding: 6rem;
+  padding: 6rem 3rem;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   background: var(--color2);
 }
 
 .about-image {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  // display: flex;
+  // flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
   img {
     width: 100%;
     max-width: 29rem;
@@ -25,16 +24,15 @@
 }
 
 .about-text {
-  height: 100vh;
   width: 30vw;
   padding: auto;
   text-align: left;
   line-height: 1.4rem;
 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  // display: flex;
+  // flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
 }
 .instagram-container {
   display: none;
@@ -48,6 +46,7 @@
     flex-direction: column;
   }
   .about-text {
+    margin-top: 4rem;
     padding: 3rem;
     width: 100vw;
 
@@ -56,10 +55,9 @@
     text-align: left;
   }
   .instagram-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
+    margin-top: 2rem;
+    display: block;
+
     cursor: pointer;
     transition: all 0.5s ease;
 
