@@ -11,6 +11,10 @@
   flex: 0.5;
   width: auto;
   height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
   //background-color: var(--color4);
   //border: solid 2px black;
@@ -19,6 +23,7 @@
     color: var(--color2);
     font-size: 6rem;
   }
+
   p {
     color: var(--color2);
     font-size: 3.2rem;
