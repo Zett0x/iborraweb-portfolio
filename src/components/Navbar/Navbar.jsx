@@ -7,7 +7,7 @@ export const Navbar = () => {
   return (
     <nav className="app__navbar-container">
       <div className="app__navbar-logo">
-        <h1>Iborra Web</h1>
+        <h1>{"< Iborra Web />"}</h1>
       </div>
 
       <ul className={`app__navbar-links ${menuOpen ? "show" : ""}`}>

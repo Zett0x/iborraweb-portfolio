@@ -12,7 +12,7 @@ export const Header = () => {
       <div className="app__header-content">
         <div className="app__header-content-title">
           <h1>👋 I am Francisco Iborra</h1>
-          <p>Front-end Web Developer</p>
+          <p>{"< Front-end Web Developer />"}</p>
         </div>
         <div className="app__header-content-media">
           <div className="header-img">
