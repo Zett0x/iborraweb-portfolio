@@ -11,7 +11,8 @@
 }
 
 .text-container {
-  margin: 2rem 0 1rem 1rem;
+  //margin: 2rem 0 1rem 1rem;
+  margin-top: 5rem;
   border-radius: 10px;
   padding: 1.5rem;
   background-color: var(--color3);
@@ -72,6 +73,8 @@
 @media only screen and (max-width: 600px) {
   .text-container {
     width: auto;
+    margin-top: 5rem;
+    padding: 1rem;
     h3 {
       display: none;
     }
