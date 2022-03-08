@@ -6,6 +6,7 @@
   position: fixed;
 
   background-color: var(--color1);
+  color: var(--color4);
 
   //backdrop-filter: blur(4px);
 }
@@ -29,6 +30,7 @@
     display: block;
     letter-spacing: 0.15em;
     position: relative;
+    color: var(--color4);
 
     &::after {
       content: "";

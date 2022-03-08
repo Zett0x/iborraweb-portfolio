@@ -7,7 +7,7 @@
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  background: var(--color2);
+  background: var(--color4);
 }
 
 .about-image img {
@@ -65,5 +65,8 @@
     &:hover {
       transform: scale(1.1);
     }
+  }
+  .instagram-container img {
+    width: 5rem;
   }
 }
