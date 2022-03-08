@@ -3,7 +3,7 @@ import instaLogo from "../../assets/instagram-logo.png";
 import "./About.scss";
 export const About = () => {
   return (
-    <div id="about" className="app__about">
+    <section id="about" className="app__about">
       <div className="about-image">
         <img src={aboutImg} alt="francisco and his dog" />
       </div>
@@ -27,6 +27,6 @@ export const About = () => {
           <img src={instaLogo} alt="instagram logo" />
         </a>
       </div>
-    </div>
+    </section>
   );
 };
