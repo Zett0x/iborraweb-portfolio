@@ -2,8 +2,8 @@ import { Navbar } from "../../components/Navbar/Navbar";
 import "./Header.scss";
 
 import photo from "../../assets/profile.png";
-import linkedin from "../../assets/linkedin-logo.png";
-import github from "../../assets/github-logo.png";
+import linkedin from "../../assets/linkedin.svg";
+import github from "../../assets/github.svg";
 
 export const Header = () => {
   return (

@@ -1,5 +1,5 @@
 import aboutImg from "../../assets/about.png";
-import instaLogo from "../../assets/instagram-logo.png";
+import instaLogo from "../../assets/instagram.svg";
 import "./About.scss";
 export const About = () => {
   return (
