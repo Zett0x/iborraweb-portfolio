@@ -1,6 +1,6 @@
 #skills {
   width: 100vw;
-  height: 100vh;
+  height: calc(100vh + 4rem);
   padding: 4.2rem;
   background-color: var(--color2);
   display: flex;
@@ -56,6 +56,7 @@
 
 @media only screen and(max-width:858px) {
   .text-container {
+    //margin-top: 6rem;
     width: auto;
     h3 {
       display: none;
@@ -74,7 +75,7 @@
 @media only screen and (max-width: 600px) {
   .text-container {
     width: auto;
-    //margin-top: rem;
+    margin-top: 6rem;
     padding: 1rem;
     h3 {
       display: none;
