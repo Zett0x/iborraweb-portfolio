@@ -1,6 +1,6 @@
 .skill-image img {
-  width: 8rem;
-  height: 8rem;
+  width: 6rem;
+  height: 6rem;
 }
 
 .skill-card {
@@ -11,5 +11,26 @@
   .skill-image img {
     width: 3.5rem;
     height: 3.5rem;
+  }
+}
+
+@media only screen and(max-width:600px) {
+  .skill-image img {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+@media only screen and(max-width:414px) {
+  .skill-image img {
+    width: 3rem;
+    height: 3rem;
+  }
+}
+
+@media only screen and(max-width:375px) {
+  .skill-image img {
+    width: 2rem;
+    height: 2rem;
   }
 }

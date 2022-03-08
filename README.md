@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 https://colorhunt.co/palette/eeeddee0ddaa203239141e27
 
+https://seeklogo.com/
+
 ### `npm start`
 
 Runs the app in the development mode.\
