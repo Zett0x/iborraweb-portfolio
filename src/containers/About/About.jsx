@@ -9,25 +9,18 @@ export const About = () => {
       </div>
 
       <div className="about-text">
-        <h1>Sobre mí</h1>
+        <h1>About Me</h1>
         <br />
 
-        <p>
-          is therefore always free from repetition, injected humour, or
-          non-characteristic words etc.
-        </p>
+        <p>Curiosity and competitiveness define my personality.</p>
         <br />
         <p>
-          Where does it come from? Contrary to popular belief, Lorem Ipsum is
-          not simply random text. It has roots in a piece of classical Latin
-          literature from 45 BC, making it over 2000 years old. Richard
+          I have a great vocation for technology and I am daily learning new
+          technologies that solve business problems and/or social problems in
+          the most efficient way.
         </p>
         <br />
-        <p>
-          What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing
-          and typesetting industry. Lorem Ipsum has been the industry's standard
-          dummy text ever since the 1500s, when an unknown printer took a galley
-        </p>
+        <p>I love animals, nature and learning/knowing different cultures.</p>
       </div>
       <div className="instagram-container">
         <a href="https://instagram.com/franib97">
