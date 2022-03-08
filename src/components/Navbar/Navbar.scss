@@ -1,6 +1,7 @@
 .app__navbar-container {
-  width: 100%;
+  width: 100vw;
   display: flex;
+
   justify-content: space-between;
   align-items: center;
   position: fixed;
@@ -56,6 +57,9 @@ ul.show {
 }
 
 @media screen and(max-width:858px) {
+  .app__navbar-container {
+    height: 4rem;
+  }
   .app__navbar-links {
     position: fixed;
     width: 100vw;
