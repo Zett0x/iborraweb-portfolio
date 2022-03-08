@@ -1,7 +1,7 @@
 #skills {
   width: 100vw;
   height: 100vh;
-  padding: 1rem;
+  padding: 4.2rem;
   background-color: var(--color2);
   display: flex;
   flex-direction: column;
@@ -11,7 +11,7 @@
 }
 
 .text-container {
-  margin-top: auto;
+  margin: 2rem 0 1rem 1rem;
   border-radius: 10px;
   padding: 1.5rem;
   background-color: var(--color3);
@@ -69,6 +69,18 @@
   }
 }
 
-// @media only screen and (max-width: 600px) {
-
-// }
+@media only screen and (max-width: 600px) {
+  .text-container {
+    width: auto;
+    h3 {
+      display: none;
+    }
+    .text-mobile {
+      display: inline;
+      font-size: 1rem;
+    }
+  }
+  .skills-container {
+    width: auto;
+  }
+}
