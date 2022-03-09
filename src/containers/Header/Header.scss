@@ -1,7 +1,10 @@
+#home {
+  height: calc(100vh + 4rem);
+}
 .app__header-content {
   width: 100vw;
   height: 100vh;
-  //height: calc(100vh+4rem);
+
   padding: 1rem; // revisar
   background-color: var(--color3);
   display: flex;
@@ -25,6 +28,7 @@
 .app__header-content-media {
   width: auto;
   height: auto;
+  margin: auto;
   //background-color: var(--color4);
   //border: solid 2px black;
 
@@ -35,7 +39,7 @@
 }
 
 .header-social-media {
-  margin-top: 2rem;
+  margin-top: 4rem;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -71,13 +75,11 @@
     justify-content: space-around;
     align-items: center;
     text-align: center;
-    height: calc(100vh+4rem);
 
     padding: 1rem 1rem;
   }
 
   .app__header-content-title {
-    margin-bottom: 2rem;
     h1 {
       font-size: 2rem;
     }
@@ -93,7 +95,6 @@
 
 @media only screen and (max-width: 600px) {
   .app__header-content {
-    height: calc(100vh + 4rem);
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -101,8 +102,7 @@
   }
 
   .app__header-content-title {
-    //flex: 3;
-    margin-top: 6rem;
+    margin-top: 8rem;
     h1 {
       font-size: 1.7rem;
     }
@@ -111,13 +111,44 @@
     }
   }
 
-  // .app__header-content-media {
-
-  // }
-  .header-img {
-    margin-bottom: 2rem;
+  .app__header-content-media {
+    margin: auto;
   }
+  // .header-img {
+  //   margin-bottom: 2rem;
+  // }
   .header-img img {
-    width: 17rem;
+    max-width: 17rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .app__header-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .app__header-content-title {
+    margin-top: 6rem;
+    //margin-bottom: auto;
+    h1 {
+      font-size: 1.7rem;
+    }
+    p {
+      font-size: 1.3rem;
+    }
+  }
+
+  .app__header-content-media {
+    margin: auto;
+  }
+  // .header-img {
+  //   margin-bottom: 2rem;
+  // }
+  .header-img img {
+    max-width: 14rem;
   }
 }

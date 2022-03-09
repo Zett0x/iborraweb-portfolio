@@ -47,7 +47,41 @@
     padding: 3rem;
     width: 100vw;
 
-    font-size: 14px;
+    font-size: 22px;
+    line-height: 1.5rem;
+    text-align: left;
+  }
+  .about-image img {
+    max-width: 20rem;
+    border-radius: 10px;
+  }
+  .instagram-container {
+    margin-top: 2rem;
+    display: block;
+
+    cursor: pointer;
+    transition: all 0.5s ease;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+  .instagram-container img {
+    width: 5rem;
+  }
+}
+
+@media only screen and(max-width:600px) {
+  .app__about {
+    flex-direction: column;
+    height: auto;
+  }
+  .about-text {
+    margin-top: 2rem;
+    padding: 3rem;
+    width: 100vw;
+
+    font-size: 16px;
     line-height: 1.5rem;
     text-align: left;
   }
