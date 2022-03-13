@@ -7,9 +7,10 @@
   color: var(--color1);
 
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .projects-title {
@@ -29,5 +30,6 @@
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background-color: black;
+
+  border: solid 1px black;
 }

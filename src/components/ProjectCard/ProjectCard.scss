@@ -1,0 +1,39 @@
+.project-card {
+  margin: 1rem;
+  padding: 1.5rem;
+
+  width: 25rem;
+  height: 30rem;
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.project-card--image img {
+  width: 100%;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.link--github,
+.link--demo {
+  margin: auto;
+  width: 12rem;
+  height: 6rem;
+  padding: 1rem;
+  margin: auto;
+  border: solid 1px black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.link--github img,
+.link--demo img {
+  width: 3rem;
+}
