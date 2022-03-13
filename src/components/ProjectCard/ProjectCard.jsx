@@ -1,21 +1,21 @@
 import "./ProjectCard.scss";
 import githubLogo from "../../assets/github.svg";
-//const imagesProject = require.context("../../assets/projects", true);
+const imagesProject = require.context("../../assets/projects", true);
 
 export const ProjectCard = ({ img, title, githubLink, demoLink }) => {
   return (
     <div className="project-card">
       <div className="project-card--image">
-        {/* <img src={imagesProject(`./${img}`)} alt="project" /> */}
-        <img src={img} alt="project" />
+        <img src={imagesProject(`./${img}`)} alt="project" />
+        {/* <img src={img} alt="project" /> */}
       </div>
-      <h3>{title}</h3>
+      <h3 className="title-project">{title}</h3>
       <div className="links">
         <a href={githubLink}>
           <div className="link--github">
             <img src={githubLogo} alt={"Github logo"} />
 
-            <h4>View code</h4>
+            <h4>code</h4>
           </div>
         </a>
         <a href={demoLink}>

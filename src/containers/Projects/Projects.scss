@@ -1,6 +1,6 @@
 #projects {
   width: 100vw;
-  height: 100vh;
+  height: 100%;
   background-color: var(--color3);
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -31,5 +31,5 @@
   align-items: center;
   flex-wrap: wrap;
 
-  border: solid 1px black;
+  // border: solid 1px black;
 }
