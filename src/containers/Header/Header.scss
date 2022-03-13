@@ -2,8 +2,8 @@
   height: calc(100vh + 4rem);
 }
 .app__header-content {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
 
   padding: 1rem; // revisar
   background-color: var(--color3);
@@ -13,6 +13,7 @@
   align-items: center;
 }
 .app__header-content-title {
+  margin: auto;
   text-align: center;
   h1 {
     color: var(--color2);
