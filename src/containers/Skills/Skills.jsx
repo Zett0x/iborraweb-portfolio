@@ -18,7 +18,7 @@ export const Skills = () => {
           Web development with the latest technologies used by companies such as
           <span className="facebook-text"> Facebook</span>,<span> AirBnb</span>,{" "}
           <span>Uber</span>, <span className="netflix-text">Netflix</span>,{" "}
-          <span className="twitter-text">Twitter</span> y <span>Paypal</span>.
+          <span className="twitter-text">Twitter</span> and <span>Paypal</span>.
         </h3>
         <h3 className="text-mobile">
           Web development with the latest technologies!

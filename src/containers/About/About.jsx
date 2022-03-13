@@ -15,9 +15,9 @@ export const About = () => {
         <p>Curiosity and competitiveness define my personality.</p>
         <br />
         <p>
-          I have a great vocation for technology and I am daily learning new
-          technologies that solve business problems and/or social problems in
-          the most efficient way.
+          I have a great vocation for technology and I am continuosly learning
+          new technologies that solve business problems and/or social problems
+          in the most efficient way.
         </p>
         <br />
         <p>I love animals, nature and learning/knowing different cultures.</p>
