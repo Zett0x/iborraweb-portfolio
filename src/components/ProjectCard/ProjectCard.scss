@@ -76,3 +76,15 @@ a {
 .title-project {
   margin-top: 1rem;
 }
+
+@media screen and (max-width: 600px) {
+  .project-card {
+    width: 16rem;
+    height: 24rem;
+  }
+  .link--github,
+  .link--demo {
+    width: 6.5rem;
+    height: 2.5rem;
+  }
+}
