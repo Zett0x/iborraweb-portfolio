@@ -18,6 +18,7 @@ export const Projects = () => {
             title={project.title}
             githubLink={project.githubURL}
             demoLink={project.demoURL}
+            description={project.description}
           />
         ))}
       </div>

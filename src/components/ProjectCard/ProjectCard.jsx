@@ -3,11 +3,24 @@ import githubLogo from "../../assets/github.svg";
 
 const imagesProject = require.context("../../assets/projects", true);
 
-export const ProjectCard = ({ img, title, githubLink, demoLink }) => {
+export const ProjectCard = ({
+  img,
+  title,
+  githubLink,
+  demoLink,
+  description,
+}) => {
   return (
     <div className="project-card">
       <div className="project-card--image">
         <img src={imagesProject(`./${img}`)} alt="project" />
+
+        <div className="overlay">
+          <div className="text">
+            {/* <h4>{title}</h4> */}
+            <p>{description}</p>
+          </div>
+        </div>
       </div>
 
       <h3 className="title-project">{title}</h3>
