@@ -47,11 +47,14 @@
   align-items: center;
 }
 
-.header-img img {
-  width: 100%;
-  height: auto;
-  border-radius: 15px;
-  //border: solid 1px black;
+.header-img {
+  width: 18rem;
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    //border: solid 1px black;
+  }
 }
 
 .linkedin-logo,
