@@ -145,3 +145,60 @@
     transform: scale(1.1);
   }
 }
+
+@media only screen and(max-width:858px) {
+  .contact-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact-form {
+    font-size: 1rem;
+
+    width: 25rem;
+  }
+
+  .contact-info {
+    display: none;
+
+    .number-email {
+      position: static;
+    }
+
+    .contact-number {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .contact-email {
+      position: static;
+      margin-top: 3rem;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .whatsapp-logo,
+    .gmail-logo {
+      width: 3rem;
+      margin-top: 3rem;
+      cursor: pointer;
+      transition: transform 0.5s ease;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+}
+
+@media only screen and(max-width:600px) {
+}
+
+@media only screen and(max-width:414px) {
+}
+
+@media only screen and(max-width:375px) {
+}
