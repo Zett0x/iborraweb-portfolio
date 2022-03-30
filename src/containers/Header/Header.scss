@@ -1,5 +1,5 @@
 #home {
-  height: calc(100vh + 4rem);
+  height: calc(100vh + 2rem);
 }
 .app__header-content {
   width: 100%;
@@ -7,6 +7,9 @@
 
   padding: 1rem; // revisar
   background-color: var(--color3);
+  background-image: url("../../assets/header-background-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;

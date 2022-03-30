@@ -25,23 +25,6 @@ export const BurgerMenu = () => {
         onClick={handleMenuClick}
       >
         <div className={`menu-btn__burger`}></div>
-        {/* <ul className={`menu-btn__burger-items ${menuOpen ? "show" : ""}`}>
-          <li className="btn__burger-link">
-            <a href="#home">Inicio</a>
-          </li>
-          <li className="btn__burger-link">
-            <a href="#about">Sobre mí</a>
-          </li>
-          <li className="btn__burger-link">
-            <a href="#skills">Habilidades</a>
-          </li>
-          <li className="btn__burger-link">
-            <a href="#projects">Proyectos</a>
-          </li>
-          <li className="btn__burger-link">
-            <a href="#contact">Contacto</a>
-          </li>
-        </ul> */}
       </div>
     </>
   );

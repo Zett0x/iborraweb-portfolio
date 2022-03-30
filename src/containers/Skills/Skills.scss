@@ -86,14 +86,15 @@
     }
   }
   .skills-container {
-    width: auto;
+    // width: auto;
     height: calc(100vh + 5rem);
   }
 }
 
 @media only screen and (max-width: 375px) {
   .text-container {
-    width: auto;
+    //width: auto;
+    width: 60vw;
     margin-top: 5rem;
     //padding: 1rem;
     h3 {
