@@ -3,6 +3,7 @@ import { Provider } from "react-redux";
 import { Header, About } from "./containers/";
 import { Skills } from "./containers/Skills/Skills";
 import { Projects } from "./containers/Projects/Projects";
+import { Contact } from "./containers/Contact/Contact";
 
 export const App = () => {
   return (
@@ -12,6 +13,7 @@ export const App = () => {
         <About />
         <Skills />
         <Projects />
+        <Contact />
       </div>
     </Provider>
   );
