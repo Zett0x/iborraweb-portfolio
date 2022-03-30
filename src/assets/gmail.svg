@@ -1,79 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg2"
-   xml:space="preserve"
-   width="410.29333"
-   height="284.18668"
-   viewBox="0 0 410.29333 284.18668"
-   sodipodi:docname="gmail-seeklogo.com.eps"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath20"><path
-         d="M 0,0 H 3077 V 2131 H 0 Z"
-         id="path18" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath26"><path
-         d="M 2802.22,2131.42 H 274.996 C 123.688,2131.42 0,2007.58 0,1856.36 V 274.98 C 0,123.859 123.688,0 274.996,0 H 2802.22 c 151.31,0 275.02,123.859 275.02,274.98 v 1581.38 c 0,151.22 -123.71,275.06 -275.02,275.06 z"
-         id="path24" /></clipPath><linearGradient
-       x1="0"
-       y1="0"
-       x2="1"
-       y2="0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2330.29,0,0,-2330.29,0,1065.71)"
-       spreadMethod="pad"
-       id="linearGradient32"><stop
-         style="stop-opacity:1;stop-color:#f8f5ea"
-         offset="0"
-         id="stop28" /><stop
-         style="stop-opacity:1;stop-color:#e6e4cc"
-         offset="1"
-         id="stop30" /></linearGradient></defs><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview4" /><g
-     id="g10"
-     inkscape:groupmode="layer"
-     inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,284.18667)"><g
-       id="g12"
-       transform="scale(0.1)"><g
-         id="g14"><g
-           id="g16"
-           clip-path="url(#clipPath20)"><g
-             id="g22"
-             clip-path="url(#clipPath26)"><path
-               d="m 253,0 v 1 h -10 v 1 h -7 v 1 h -6 v 1 h -7 v 1 h -5 v 1 h -4 v 1 h -4 v 1 h -4 v 1 h -4 v 1 h -4 v 1 h -3 v 1 h -4 v 1 h -2 v 1 h -3 v 1 h -3 v 1 h -2 v 1 h -3 v 1 h -3 v 1 h -3 v 1 h -2 v 1 h -3 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -2 v 1 h -3 v 1 h -2 v 1 h -1 v 1 h -2 v 1 h -2 v 1 h -1 v 1 h -2 v 1 h -2 v 1 h -1 v 1 h -2 v 1 h -2 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -2 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 1 h -1 v 2 h -1 v 2 h -1 v 1 h -1 v 2 h -1 v 1 h -1 v 2 h -1 v 2 h -1 v 1 h -1 v 2 h -1 v 2 h -1 v 1 h -1 v 2 h -1 v 2 h -1 v 1 h -1 v 2 h -1 v 3 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 2 h -1 v 3 h -1 v 2 h -1 v 3 h -1 v 3 h -1 v 3 h -1 v 2 h -1 v 3 h -1 v 3 h -1 v 2 h -1 v 4 h -1 v 3 h -1 v 4 H 9 v 4 H 8 v 4 H 7 v 4 H 6 v 4 H 5 v 5 H 4 v 7 H 3 v 6 H 2 v 7 H 1 v 10 H 0 v 1626 h 1 v 10 h 1 v 6 h 1 v 7 h 1 v 6 h 1 v 6 h 1 v 3 h 1 v 4 h 1 v 4 h 1 v 4 h 1 v 4 h 1 v 4 h 1 v 3 h 1 v 3 h 1 v 2 h 1 v 3 h 1 v 3 h 1 v 3 h 1 v 2 h 1 v 3 h 1 v 3 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 3 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 2 h 1 v 1 h 1 v 2 h 1 v 2 h 1 v 1 h 1 v 2 h 1 v 2 h 1 v 1 h 1 v 2 h 1 v 2 h 1 v 1 h 1 v 2 h 1 v 2 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 2 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 3 v 1 h 3 v 1 h 3 v 1 h 2 v 1 h 3 v 1 h 3 v 1 h 3 v 1 h 2 v 1 h 3 v 1 h 4 v 1 h 4 v 1 h 4 v 1 h 3 v 1 h 4 v 1 h 4 v 1 h 5 v 1 h 6 v 1 h 7 v 1 h 6 v 1 h 7 v 1 h 2584 v -1 h 6 v -1 h 7 v -1 h 6 v -1 h 7 v -1 h 4 v -1 h 4 v -1 h 4 v -1 h 4 v -1 h 4 v -1 h 3 v -1 h 4 v -1 h 3 v -1 h 3 v -1 h 2 v -1 h 3 v -1 h 3 v -1 h 3 v -1 h 2 v -1 h 3 v -1 h 3 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 3 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -3 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -3 h 1 v -2 h 1 v -3 h 1 v -3 h 1 v -2 h 1 v -3 h 1 v -3 h 1 v -3 h 1 v -2 h 1 v -3 h 1 v -4 h 1 v -4 h 1 v -4 h 1 v -4 h 1 v -4 h 1 v -3 h 1 v -5 h 1 v -7 h 1 v -6 h 1 v -7 h 1 v -8 h 1 V 249 h -1 v -8 h -1 v -6 h -1 v -7 h -1 v -6 h -1 v -5 h -1 v -4 h -1 v -4 h -1 v -4 h -1 v -4 h -1 v -3 h -1 v -4 h -1 v -3 h -1 v -3 h -1 v -3 h -1 v -2 h -1 v -3 h -1 v -3 h -1 v -3 h -1 v -2 h -1 v -3 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -3 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -2 v -1 h -2 v -1 h -1 v -1 h -2 v -1 h -2 v -1 h -1 v -1 h -2 v -1 h -1 v -1 h -2 v -1 h -2 v -1 h -1 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -3 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -2 v -1 h -3 v -1 h -3 v -1 h -3 v -1 h -2 v -1 h -3 v -1 h -3 v -1 h -2 v -1 h -3 v -1 h -3 v -1 h -4 v -1 h -4 V 9 h -4 V 8 h -4 V 7 h -4 V 6 h -4 V 5 h -5 V 4 h -7 V 3 h -6 V 2 h -7 V 1 h -10 V 0"
-               style="fill:url(#linearGradient32);fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path34" /></g></g></g><path
-         d="M 1527.19,649.23 381.578,28.8594 383.453,0 1540.54,623.699 1527.19,649.23"
-         style="fill:#b6b4ad;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path36" /><path
-         d="M 2826.06,1762.34 2091.51,1303.23 1540.54,623.699 2660.79,0 h 141.43 c 101.56,0 190.52,55.8789 238.18,138.391 l -214.34,632.218 v 991.731"
-         style="fill:#b6b4ad;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path38" /><path
-         d="m 1540.54,623.699 1536.7,1189.771 v 42.89 c 0,151.22 -123.71,275.06 -275.02,275.06 h -61.19 L 1577.21,1137.95 366.391,2131.42 H 274.996 C 123.688,2131.42 0,2007.58 0,1856.36 V 274.98 C 0,123.859 123.688,0 274.996,0 H 383.453 V 1542.02 L 1540.54,623.699"
-         style="fill:#ef363c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path40" /><path
-         d="M 3077.24,274.98 V 1813.47 L 2660.79,1491.04 V 0 h 141.43 c 151.31,0 275.02,123.859 275.02,274.98"
-         style="fill:#c12624;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path42" /></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#FFFFFF;" d="M501.551,387.058c0,28.498-23.312,51.808-51.809,51.808H62.258
+	c-28.496,0-51.809-23.311-51.809-51.808V124.942c0-28.497,23.313-51.808,51.809-51.808h387.484
+	c28.497,0,51.809,23.311,51.809,51.808V387.058z"/>
+<path style="fill:#D50707;" d="M62.258,438.867h10.885V162.547l182.716,147.187l182.716-147.187v276.319h11.166
+	c26.683,0,48.816-20.435,51.528-46.43V124.942c0-28.498-23.313-51.808-51.809-51.808L255.859,229.627L62.258,73.133
+	c-28.496,0-51.809,23.311-51.809,51.808v262.117C10.449,415.556,33.762,438.867,62.258,438.867z"/>
+<path d="M449.742,62.684H62.258C27.929,62.684,0,90.614,0,124.942v262.117c0,34.329,27.929,62.257,62.258,62.257h387.484
+	c34.33,0,62.258-27.928,62.258-62.257V124.942C512,90.614,484.072,62.684,449.742,62.684z M419.912,83.582L255.859,216.19
+	L91.806,83.582H419.912z M428.126,428.418H83.592V184.382l165.712,133.49c3.826,3.082,9.284,3.082,13.11,0l165.711-133.49V428.418z
+	 M491.102,387.058c0,22.806-18.554,41.359-41.36,41.359h-0.717v-265.87c0-4.023-2.309-7.688-5.939-9.425
+	c-3.632-1.738-7.934-1.235-11.065,1.288L255.859,296.318L79.698,154.41c-3.134-2.523-7.438-3.026-11.065-1.288
+	c-3.63,1.737-5.939,5.402-5.939,9.425v265.87h-0.436c-22.805,0.001-41.359-18.553-41.359-41.358V124.942
+	c0-21.626,16.688-39.418,37.861-41.2l190.532,154.012c1.915,1.549,4.242,2.323,6.568,2.323c2.327,0,4.653-0.774,6.568-2.323
+	L452.983,83.721c21.295,1.66,38.119,19.507,38.119,41.22V387.058z"/>
+<path d="M398.522,263.111c2.309,0,4.634-0.762,6.568-2.328l3.635-2.942c4.485-3.631,5.177-10.21,1.546-14.695
+	c-3.63-4.486-10.211-5.178-14.695-1.547l-3.636,2.942c-4.485,3.631-5.177,10.211-1.546,14.696
+	C392.459,261.787,395.477,263.111,398.522,263.111z"/>
+<path d="M297.54,344.054c2.309,0,4.634-0.762,6.568-2.327l74.708-59.674c4.485-3.631,5.177-10.21,1.546-14.695
+	c-3.63-4.486-10.211-5.179-14.695-1.549l-74.708,59.674c-4.485,3.631-5.177,10.21-1.546,14.695
+	C291.476,342.729,294.495,344.054,297.54,344.054z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

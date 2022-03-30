@@ -1,3 +1,5 @@
+import whatsapp from "../../assets/whatsapp.svg";
+import gmail from "../../assets/gmail.svg";
 import "./Contact.scss";
 export const Contact = () => {
   const handleSubmit = (e) => {
@@ -15,7 +17,11 @@ export const Contact = () => {
           <div className="number-email">
             <div className="contact-number">
               <div className="number-logo">
-                <i>LOGO</i>
+                <img
+                  className="whatsapp-logo"
+                  src={whatsapp}
+                  alt="whatsapp-logo"
+                />
               </div>
               <div className="number-es">
                 <p>+34 640 33 48 27</p>
@@ -23,8 +29,8 @@ export const Contact = () => {
             </div>
 
             <div className="contact-email">
-              <div className="email-logo">
-                <i>logo</i>
+              <div className="gmail-logo">
+                <img className="gmail-logo" src={gmail} alt="email-logo" />
               </div>
               <div className="email-es">
                 <p>franciscoiborra1997@gmail.com</p>
@@ -51,11 +57,12 @@ export const Contact = () => {
           />
           <label htmlFor="message">Message:</label>
           <textarea
-            style={{ resize: "none" }}
+            style={{ resize: "none", padding: "1rem" }}
             name="message"
             id="textarea"
             cols="30"
             rows="10"
+            placeholder="Write a message..."
           ></textarea>
           <button type="submit">Send</button>
         </form>
