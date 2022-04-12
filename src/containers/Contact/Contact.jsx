@@ -9,7 +9,7 @@ export const Contact = () => {
     <footer id="contact">
       <div className="title-container">
         <h2 className="title">Contact Me</h2>
-        <p className="title-info">Let´s take a coffe</p>
+        <p className="title-info">Let´s take a coffee</p>
       </div>
 
       <div className="contact-container">
