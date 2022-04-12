@@ -75,4 +75,13 @@ export const projects = [
     description:
       "You have something important to do next friday? Save it in this calendar!",
   },
+  {
+    id: 9,
+    title: "Bingo's Card Generator",
+    imgURL: "bingo.png",
+    githubURL: "https://github.com/Zett0x/bingo-sheet",
+    demoURL: "https://iborra-bingo.netlify.app",
+    description:
+      "Do you want to play bingo and you dont have any cards? Use this app",
+  },
 ];

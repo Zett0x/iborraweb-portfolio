@@ -147,15 +147,24 @@
 }
 
 @media only screen and(max-width:858px) {
+  #contact {
+    padding: 1.6rem;
+    padding-top: 3rem;
+  }
   .contact-container {
     display: flex;
     flex-direction: column;
   }
 
   .contact-form {
-    font-size: 1rem;
-
-    width: 25rem;
+    width: 90vw;
+    input {
+      font-size: 1rem;
+    }
+  }
+  .title,
+  .title-info {
+    font-size: 0rem;
   }
 
   .contact-info {
@@ -180,6 +189,10 @@
       align-items: center;
     }
 
+    .contact-form {
+      font-size: 1rem;
+    }
+
     .whatsapp-logo,
     .gmail-logo {
       width: 3rem;
@@ -194,11 +207,11 @@
   }
 }
 
-@media only screen and(max-width:600px) {
-}
+// @media only screen and(max-width:600px) {
+// }
 
-@media only screen and(max-width:414px) {
-}
+// @media only screen and(max-width:414px) {
+// }
 
-@media only screen and(max-width:375px) {
-}
+// @media only screen and(max-width:375px) {
+// }
